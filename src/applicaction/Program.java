@@ -1,10 +1,10 @@
-package program;
+package applicaction;
 /**
  * 
  * @author Fabio D. Sinobre.
  *
  */
-public class Application {
+public class Program {
 
 	public static void main(String[] args) {
 		
